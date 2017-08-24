@@ -8,6 +8,8 @@
 
 As you can see from the results.csv, GYG performs well in CTR, but fails to perform in positioning of ranking and impressions. GYG also has a good revenue, but also on a high cost. So the revenue/cost ratio is not that great. 
 
+Overall GYG ranks 5th position. 
+
 ## What are the recommendations you would give us to improve our paid marketing strategy based on your results?  
 
 GYG should focus on metrics they lack behind. For an example with better keywords and better content it could improve positioning. Looking out for alternative and cheaper advertisement methods will reduce the cost and increase revenue/cost ratio. 
